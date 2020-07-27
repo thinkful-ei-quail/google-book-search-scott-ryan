@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1 {
+  margin: 20px;
+}
+
+ul {
+  list-style: none;
+}
+
+.book-li-item {
+  display: flex;
+  width: 90%;
+}
+
+.book-li-item img {
+  padding: 15px;
+  max-width: 200px;
+}
+
+form {
+  margin: 20px;
+  background-color: darkgrey;
+  padding: 10px;
+}
